@@ -1,0 +1,188 @@
+{
+  "userList": [
+    {
+      "id": "deepika",
+      "userName": "deepika",
+      "password": "deepika",
+      "userType": "doctor",
+      "doctorId": "deepika111"
+    },
+    {
+      "id": "rohit",
+      "userName": "rohit",
+      "password": "rohit",
+      "userType": "doctor",
+      "doctorId": "rohit222"
+    },
+    {
+      "id": "mahesh",
+      "userName": "mahesh",
+      "password": "mahesh",
+      "userType": "doctor",
+      "doctorId": "mahesh333"
+    },
+    {
+      "id": "jon",
+      "userName": "jon",
+      "password": "jon",
+      "userType": "user"
+    },
+    {
+      "id": "vijay",
+      "userName": "vijay",
+      "password": "vijay",
+      "userType": "user"
+    }
+  ],
+  "doctorList": [
+    {
+      "doctorName": "Dr. Deepika",
+      "doctorId": "deepika111",
+      "address": {
+        "city": "Bangalore",
+        "state": "KA",
+        "pincode": 123123,
+        "colony": "btm second state"
+      },
+      "doctoreType": "kidny",
+      "email": "deepika@gmail.com",
+      "contact": "9099099090",
+      "rating": 3,
+      "education": "Dr Deepika Das has a Bachelor of Homeopathic Medicine and Surgery degree from the National Homeopathic Medical College, Lucknow, along with a Bachelor of Science degree. ",
+      "aboutDr": "Dr Deepika Das has been working as a Homoeopathic Consultant since 2015. She is also an Acting Homeopathic Consultant at Dr Batra’s Positive Health Clinic in Bhubaneswar. She has been practising homeopathy for the past two years.",
+      "id": 1
+    },
+    {
+      "doctorName": "Dr. Rohit",
+      "doctorId": "rohit222",
+      "address": {
+        "city": "Bangalore",
+        "state": "KA",
+        "pincode": 123123,
+        "colony": "btm second state"
+      },
+      "doctoreType": "eye",
+      "email": "rohit@gmail.com",
+      "contact": "8988889898",
+      "education": "Dr Rohit Paul has a Bachelor of Homeopathic Medicine and Surgery degree from the National Homeopathic Medical College, Lucknow, along with a Bachelor of Science degree. ",
+      "aboutDr": "Dr Rohit Paul has been working at Dr Batra’s™ for the past 12 years. From 2001 to 2003, she has worked as a Physician at Dr Mahesh Bhattacharya and Co. Kolkata, and, around the same time, she has also been an Honorary Physician at the Rotary club of Calcutta.",
+      "rating": 2,
+      "id": 2
+    },
+    {
+      "doctorName": "Dr. Mahesh",
+      "doctorId": "mahesh333",
+      "address": {
+        "city": "Bangalore",
+        "state": "KA",
+        "pincode": 123123,
+        "colony": "btm second state"
+      },
+      "doctoreType": "hart",
+      "email": "mahesh@gmail.com",
+      "contact": "1212125678",
+      "education": "Dr mahesh has a Bachelor of Homeopathic Medicine and Surgery degree from the National Homeopathic Medical College, Lucknow, along with a Bachelor of Science degree. ",
+      "aboutDr": "Dr mahesh, Karnataka based classical homeopath with 13 years of clinical practice. Expertise in pediatric, skin disorders, & nutrition.  Postgraduate diploma and master degree in health education and clinical/therapeutic nutrition, life time member of Karnataka board of homeopathic system Bangalore.",
+      "rating": 5,
+      "id": 3
+    },
+    {
+      "doctorName": "Dr. Mahesh",
+      "doctorId": "mahesh333",
+      "address": {
+        "city": "Bangalore",
+        "state": "KA",
+        "pincode": 123123,
+        "colony": "btm second state"
+      },
+      "doctoreType": "hart",
+      "email": "mahesh@gmail.com",
+      "contact": "1212125678",
+      "education": "Dr mahesh has a Bachelor of Homeopathic Medicine and Surgery degree from the National Homeopathic Medical College, Lucknow, along with a Bachelor of Science degree. ",
+      "aboutDr": "Dr mahesh, Karnataka based classical homeopath with 13 years of clinical practice. Expertise in pediatric, skin disorders, & nutrition.  Postgraduate diploma and master degree in health education and clinical/therapeutic nutrition, life time member of Karnataka board of homeopathic system Bangalore.",
+      "rating": 5,
+      "id": 4
+    },
+    {
+      "doctorName": "Dr. Mahesh",
+      "doctorId": "mahesh333",
+      "address": {
+        "city": "Bangalore",
+        "state": "KA",
+        "pincode": 123123,
+        "colony": "btm second state"
+      },
+      "doctoreType": "hart",
+      "email": "mahesh@gmail.com",
+      "contact": "1212125678",
+      "education": "Dr mahesh has a Bachelor of Homeopathic Medicine and Surgery degree from the National Homeopathic Medical College, Lucknow, along with a Bachelor of Science degree. ",
+      "aboutDr": "Dr mahesh, Karnataka based classical homeopath with 13 years of clinical practice. Expertise in pediatric, skin disorders, & nutrition.  Postgraduate diploma and master degree in health education and clinical/therapeutic nutrition, life time member of Karnataka board of homeopathic system Bangalore.",
+      "rating": 5,
+      "id": 5
+    }
+  ],
+  "timeSlot": [
+    {
+      "date": "2021-03-02",
+      "fromTime": "15:00",
+      "toTime": "16:00",
+      "doctorId": "deepika111",
+      "id": 213,
+      "status": "booked"
+    },
+    {
+      "date": "2021-03-23",
+      "fromTime": "22:11",
+      "toTime": "12:11",
+      "doctorId": "rohit222",
+      "id": 215,
+      "status": "booked"
+    },
+    {
+      "date": "2021-03-23",
+      "fromTime": "15:53",
+      "toTime": "14:54",
+      "doctorId": "rohit222",
+      "id": 216
+    },
+    {
+      "date": "2021-05-11",
+      "fromTime": "13:30",
+      "toTime": "14:00",
+      "doctorId": "rohit222",
+      "id": 217
+    }
+  ],
+  "appointmentRequest": [
+    {
+      "timeSlot": "16:00 - 15:00",
+      "firstName": "test",
+      "lastName": "test",
+      "email": "sanjaykumar.dwivedi@hcl.com",
+      "contact": "1212111212",
+      "userName": "jon",
+      "status": "cancel",
+      "id": 1
+    },
+    {
+      "timeSlot": "16:00 - 15:00",
+      "firstName": "vijay",
+      "lastName": "dwi",
+      "email": "vijay@gmail.cpom",
+      "contact": "9090990900",
+      "userName": "jon",
+      "status": "",
+      "id": 2
+    },
+    {
+      "timeSlot": "12:11 - 22:11",
+      "firstName": "vijay",
+      "lastName": "vijay",
+      "email": "vijay@gmail.cpom",
+      "contact": "9099090909",
+      "userName": "vijay",
+      "status": "cancel",
+      "id": 3
+    }
+  ]
+}

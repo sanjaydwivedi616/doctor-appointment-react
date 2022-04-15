@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`When Loader is render 1`] = `
+<div>
+  <p
+    className="text-center"
+  >
+    Loadding....
+  </p>
+</div>
+`;

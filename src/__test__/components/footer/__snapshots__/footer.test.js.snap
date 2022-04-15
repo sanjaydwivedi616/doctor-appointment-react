@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer text is render 1`] = `
+<p
+  className="footer"
+>
+  © copyright HCL 2021
+</p>
+`;
